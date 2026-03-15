@@ -23,6 +23,10 @@
 <a href="https://linkedin.com/in/afiya-antara-anika" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" height="35"/>
 </a>
+
+<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME](https://www.facebook.com/afiyaantara.anika" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="35" height="35"/>
+</a>
 </p>
 
 ---
