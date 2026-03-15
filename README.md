@@ -1,5 +1,5 @@
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:3A7BD5,100:00d2ff&height=220&section=header&text=Data%20Analyst%20%7C%20Turning%20Data%20into%20Insights&fontSize=35&fontAlign=50&fontAlignY=35&desc=Analytics%20•%20Visualization%20•%20Decision%20Making&descSize=18&descAlign=50&descAlignY=60)
-<h1 align="center">Hi 👋, I'm Afiya Antara Anika</h1>
+<h1 align="center">Hi 👋, I'm Anika</h1>
 <h3 align="center">Aspiring Data Analyst focused on transforming raw data into meaningful insights through analytical thinking, statistical techniques, and data visualization.</h3>
 
 ---
