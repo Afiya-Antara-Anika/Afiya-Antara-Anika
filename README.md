@@ -49,9 +49,20 @@
 
 ### 📊 GitHub Stats
 
+<table>
+<tr>
+<td>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afiya-Antara-Anika&show_icons=true&theme=default)
 
+</td>
+<td>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afiya-Antara-Anika&layout=compact)
+
+</td>
+</tr>
+</table>
 
 ---
 
