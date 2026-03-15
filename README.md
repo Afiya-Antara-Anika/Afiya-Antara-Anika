@@ -15,10 +15,15 @@
 
 ### 📫 Contact Me
 
-Email: **afiyaaanika@gmail.com**
+<p align="left">
+<a href="mailto:afiyaaanika@gmail.com">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35" height="35"/>
+</a>
 
-LinkedIn:  
-https://linkedin.com/in/afiya-antara-anika
+<a href="https://linkedin.com/in/afiya-antara-anika" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" height="35"/>
+</a>
+</p>
 
 ---
 
