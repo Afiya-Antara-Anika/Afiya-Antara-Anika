@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Afiya%20Antara%20Anika&fontSize=40)
 <h1 align="center">Hi 👋, I'm Afiya Antara Anika</h1>
 <h3 align="center">Aspiring Data Analyst focused on transforming raw data into meaningful insights through analytical thinking, statistical techniques, and data visualization.</h3>
 
