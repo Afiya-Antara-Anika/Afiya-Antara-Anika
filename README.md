@@ -30,10 +30,20 @@
 ### 🛠 Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,r,mysql" />
-</p>
 
-Excel • Power BI • MYSQL • Metabse • Python • R  
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="40"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
+
+</p>
 
 ---
 
