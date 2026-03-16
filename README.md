@@ -15,19 +15,19 @@
 
 ### 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/afiya-antara-anika)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:afiyaaanika@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/afiya-antara-anika)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:afiyaaanika@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/afiyaantara.anika)
 
 ---
 
 ### 🛠 Languages and Tools
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
-![Metabase](https://img.shields.io/badge/metabase-509EE3?style=flat&logo=metabase&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 ---
