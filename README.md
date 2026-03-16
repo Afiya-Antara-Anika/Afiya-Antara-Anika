@@ -15,21 +15,12 @@
 
 ### 📫 Contact Me
 
-<p align="left">
-<a href="mailto:afiyaaanika@gmail.com">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35" height="35"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afiya-antara-anika)
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afiyaaanika@gmail.com)
 
-<a href="https://linkedin.com/in/afiya-antara-anika" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" height="35"/>
-</a>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/afiyaantara.anika)
 
-
-<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME](https://www.facebook.com/afiyaantara.anika" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="35" height="35"/>
-</a>
-</p>
 
 ---
 
